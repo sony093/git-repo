@@ -1,5 +1,5 @@
 git status ->Print the status of git repository
-git init ->
+git init -> Intialize git repository
 git config user.name "Abinash Das"
 git config user.email sonybiswal093@gmail.com
 git add

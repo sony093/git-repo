@@ -1,8 +1,12 @@
-git status ->Print the status of git repository
-git init -> Intialize the git repository
-git config user.name "Abinash Das" 
-git config user.email sonybiswal093@gmail.com
-git add
-git commit -m ""
-git log
-Git diff<filename>
+git status                                  ->Print the status of git repository
+git init                                     -> Intialize the git repository
+git config --global user.name "sonali"       ->Specify user name globally
+git config --global user.email "sonybiswal093@gmail.com" ->Specify user email globally
+git config user.name "sonali"                 ->Specify username for particular repository
+git config user.email sonybiswal093@gmail.com ->Specify Email for particular repository
+git add                                       ->Add file to staging environment
+git commit -m ""                              ->Commit file to local git repository
+git log                                       ->Check file to log hisotry
+Git diff<filename>/--checked file name        ->Check changes made to file with existing file
+git remote add origin<GitHub Repository URL>  ->Establish connection to the remote GitHub Repository
+git push origin master                        ->Push to master branch

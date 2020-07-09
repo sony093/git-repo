@@ -2,7 +2,11 @@ git status ->Print the status of git repository
 git init -> Intialize the git repository
 git config user.name "Abinash Das"
 git config user.email sonybiswal093@gmail.com
-git add
+git add (1+2)
 git commit -m ""
 git log
 Git diff<filename>
+----------------------------------------------------------------------------------------------------
+Git Session 1
+Git Session 2
+Git Session 3

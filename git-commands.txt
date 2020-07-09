@@ -10,3 +10,7 @@ Git diff<filename>
 Git Session 1
 Git Session 2
 Git Session 3
+----------------------------------------------------------------------------------------
+scenario1
+scenario2
+scenario3
